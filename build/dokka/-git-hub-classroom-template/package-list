@@ -1,0 +1,40 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:controllers.ex1////PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/index.html
+$dokka.location:controllers.ex1/Exercici 1Kt///PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-exercici 1-kt/index.html
+$dokka.location:controllers.ex1/Exercici 1Kt/escala/#controllers.ex1.Punt#kotlin.Int/PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-exercici 1-kt/escala.html
+$dokka.location:controllers.ex1/Exercici 1Kt/igualtat/#controllers.ex1.Punt#controllers.ex1.Punt/PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-exercici 1-kt/igualtat.html
+$dokka.location:controllers.ex1/Exercici 1Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-exercici 1-kt/main.html
+$dokka.location:controllers.ex1/Exercici 1Kt/mostrarPunt/#controllers.ex1.Punt/PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-exercici 1-kt/mostrar-punt.html
+$dokka.location:controllers.ex1/Exercici 1Kt/translacio/#controllers.ex1.Punt#controllers.ex1.Punt/PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-exercici 1-kt/translacio.html
+$dokka.location:controllers.ex1/Punt///PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-punt/index.html
+$dokka.location:controllers.ex1/Punt/Punt/#kotlin.Float#kotlin.Float/PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-punt/-punt.html
+$dokka.location:controllers.ex1/Punt/getX/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-punt/get-x.html
+$dokka.location:controllers.ex1/Punt/getY/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-punt/get-y.html
+$dokka.location:controllers.ex1/Punt/setX/#kotlin.Float/PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-punt/set-x.html
+$dokka.location:controllers.ex1/Punt/setY/#kotlin.Float/PointingToDeclaration/-git-hub-classroom-template/controllers.ex1/-punt/set-y.html
+$dokka.location:controllers.ex2////PointingToDeclaration/-git-hub-classroom-template/controllers.ex2/index.html
+$dokka.location:controllers.ex2/Exercici 2Kt///PointingToDeclaration/-git-hub-classroom-template/controllers.ex2/-exercici 2-kt/index.html
+$dokka.location:controllers.ex2/Exercici 2Kt/comprobarAsiento/#java.util.Scanner#kotlin.collections.MutableList[kotlin.collections.MutableList[kotlin.String]]/PointingToDeclaration/-git-hub-classroom-template/controllers.ex2/-exercici 2-kt/comprobar-asiento.html
+$dokka.location:controllers.ex2/Exercici 2Kt/crearSala/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ex2/-exercici 2-kt/crear-sala.html
+$dokka.location:controllers.ex2/Exercici 2Kt/ejecutarAcion/#kotlin.Int#java.util.Scanner#kotlin.collections.MutableList[kotlin.collections.MutableList[kotlin.String]]/PointingToDeclaration/-git-hub-classroom-template/controllers.ex2/-exercici 2-kt/ejecutar-acion.html
+$dokka.location:controllers.ex2/Exercici 2Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ex2/-exercici 2-kt/main.html
+$dokka.location:controllers.ex2/Exercici 2Kt/mostrarMatris/#kotlin.collections.MutableList[kotlin.collections.MutableList[kotlin.String]]/PointingToDeclaration/-git-hub-classroom-template/controllers.ex2/-exercici 2-kt/mostrar-matris.html
+$dokka.location:controllers.ex2/Exercici 2Kt/mostrarMenu/#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.ex2/-exercici 2-kt/mostrar-menu.html
+$dokka.location:controllers.ex2/Exercici 2Kt/recogerEntero/#kotlin.String#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.ex2/-exercici 2-kt/recoger-entero.html
+$dokka.location:controllers.ex2/Exercici 2Kt/reservaAsiento/#kotlin.collections.MutableList[kotlin.collections.MutableList[kotlin.String]]#kotlin.Int#kotlin.Int/PointingToDeclaration/-git-hub-classroom-template/controllers.ex2/-exercici 2-kt/reserva-asiento.html
+$dokka.location:interfaces////PointingToDeclaration/-git-hub-classroom-template/interfaces/index.html
+$dokka.location:interfaces/MyInterface///PointingToDeclaration/-git-hub-classroom-template/interfaces/-my-interface/index.html
+$dokka.location:models////PointingToDeclaration/-git-hub-classroom-template/models/index.html
+$dokka.location:models/MyModel///PointingToDeclaration/-git-hub-classroom-template/models/-my-model/index.html
+$dokka.location:models/MyModel/MyModel/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/-my-model.html
+$dokka.location:models/MyModel/function/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/function.html
+$dokka.location:utilities////PointingToDeclaration/-git-hub-classroom-template/utilities/index.html
+$dokka.location:utilities/MyUtilsKt///PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/index.html
+$dokka.location:utilities/MyUtilsKt/readSomething/#/PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/read-something.html
+controllers.ex1
+controllers.ex2
+interfaces
+models
+utilities
+
